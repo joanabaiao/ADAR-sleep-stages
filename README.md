@@ -2,7 +2,7 @@
 
 In this project we analised different physiological signals acquired during a whole night sleep and developed an unsupervised methodology to differentiate the different sleep stages.
 
-### Methodology:
+## Methodology:
 1. Independent Component Analysis (ICA)
 2. Filtering
 3. Wavelets
